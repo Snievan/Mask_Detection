@@ -1,7 +1,7 @@
 # COVID-19 Face Mask Detection
 
 Face or masked classfication using CNN
-![example](/example.png)
+![example](./images/example.png)
 
 ## Requirement
 
